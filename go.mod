@@ -1,3 +1,3 @@
-module github.com/tomnomnom/fff
+module github.com/davidwkirsch/fff
 
 go 1.16
